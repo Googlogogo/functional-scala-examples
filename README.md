@@ -17,7 +17,7 @@ This repository contains a Scala file (`FunctionalExamples.scala`) that demonstr
 #### Using sbt (Recommended)
 1. Clone the Repository and navigate to the project directory:  
 ```bash
-git clone https://github.com/your-username/functional-scala-examples.git
+git clone https://github.com/Googlogogo/functional-scala-examples.git
 cd functional-scala-examples
 ```
 
